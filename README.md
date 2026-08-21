@@ -146,5 +146,3 @@ docker run --env-file .env -p 7860:7860 attendx
 - [ ] Analytics across multiple spaces for an organizer
 
 ---
-
-Built by [Nimish Wadhwa](https://github.com/Nimish-ctrl)
